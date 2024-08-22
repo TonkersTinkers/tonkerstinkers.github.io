@@ -6,4 +6,5 @@ description: A place for projects by Tonkers Tinkers
 show_downloads: false
 google_analytics: G-LTY71E4NF4
 name: luaphacim's site
-
+github:
+  is_project_page: false

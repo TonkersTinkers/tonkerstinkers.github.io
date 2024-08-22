@@ -1,54 +1,46 @@
-# tonkerstinkers.github.io
-Tonkers Tinkers Stuff
-\`\`\`markdown
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Tonkers Tinkers Projects
 
-**Bold Text**
+Welcome to the official GitHub repository for projects developed by **Tonkers Tinkers**! Here, you'll find a collection of our innovative and exciting mobile and desktop applications. We specialize in creating games that combine fun, creativity, and a touch of history, providing engaging experiences for players of all ages.
 
-*Italic Text*
+## 🚀 Our Projects
 
-**_Bold and Italic_**
+### 1. Historic Helix
+Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze navigation game. Unearth ancient artifacts and unravel the secretive tales of Earth's forgotten past. Navigate through beautifully rendered historical environments and challenge yourself with dynamic mazes.
 
-> Blockquote: Text that is quoted from another source.
+- **Platforms**: Android, PC, WebGL, Linux
+- **Genre**: Puzzle, Adventure
+- **Status**: #InDev (BETA)
 
-- Bullet List
-  - Nested Bullet
-    - Sub-nested Bullet
+### 2. Project Nexus
+**[Coming Soon]** Futuristic gravity game that will push your reflexes to the limit. Stay tuned for more information as we get closer to launch!
 
-1. Numbered List
-   1. Nested Numbered List
-      1. Sub-nested Numbered List
+- **Platforms**: Android, PC, WebGL
+- **Genre**: Space, Gravity
+- **Status**: Concept Phase
 
-\`Inline code\` with backticks
+### 3. Quantum Quest
+**[Coming Soon]** Explore the mysteries of the quantum realm in this innovative puzzle game. Challenge your mind with quantum physics-inspired puzzles that will make you see the world in a whole new way.
 
-\`\`\`
-Block code
-with backticks
-\`\`\`
+- **Platforms**: PC 
+- **Genre**: Puzzle, Educational
+- **Status**: Prototype
 
-\`\`\`javascript
-// Syntax highlighted code block
-function helloWorld() {
-    console.log("Hello, world!");
-}
-\`\`\`
+### 4. Factorio MOD
+**[Server MOD]** MEGA Cities
 
-[Link to Google!](https://google.com)
+- **Eacv player starts their own city from scratch, stay alive and trade with other cities**
 
-![Image](https://via.placeholder.com/150)
 
-| Table | Example |
-|-------|---------|
-| Row 1 | Data 1  |
-| Row 2 | Data 2  |
-| Row 3 | Data 3  |
+## 🔗 Links
+
+- [Privacy Policy](https://github.com/tonkerstinkers/privacy-policy) - Learn how we handle your data and protect your privacy.
+
+
+## 📫 Contact Us
+
+Have questions or feedback? We'd love to hear from you! Reach out to us at [https://discord.gg/Nyn994Er]((https://discord.gg/Nyn994Er)).
 
 ---
 
-Horizontal Rule Above
-\`\`\`
+Thank you for visiting! We are excited to share our projects with you and look forward to bringing more amazing experiences to players around the world.
+

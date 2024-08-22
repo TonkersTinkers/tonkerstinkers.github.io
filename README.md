@@ -26,13 +26,13 @@ Welcome to the official GitHub repository for projects developed by **Tonkers Ti
 - **Status**: Prototype
 
 ### 4. Factorio MOD
-**[Server MOD]** MEGA Cities
+**[RELEASED]** MEGA Cities
 
 - **Each player starts their own city from scratch, stay alive and trade with other cities**
 
 - **Platforms**: FACTORIO SERVER MOD
 - **Genre**: Factory
-- **Status**: Released
+- **Status**: V4
 
 ## 🔗 Links
 

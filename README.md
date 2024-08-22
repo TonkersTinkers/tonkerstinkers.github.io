@@ -5,7 +5,7 @@ For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of
 ## 🚀 Our Projects
 
 ### 1. Historic Helix
-**[BETA]** Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze navigation game. Unearth ancient artifacts and unravel the secretive tales of Earth's forgotten past. Navigate through beautifully rendered historical environments and challenge yourself with dynamic mazes.
+**[BETA]** Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze navigation game. Unearth ancient artifacts and unravel the secretive tales of Earth's forgotten past. Navigate through themed fictionally historical environments and challenge yourself with dynamic mazes.
 
 - **Platforms**: Android, PC, WebGL, Linux
 - **Genre**: Puzzle, Adventure

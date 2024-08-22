@@ -41,7 +41,7 @@ For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of
 
 ## 📫 Contact Us
 
-Have questions or feedback? We'd love to hear from you! Reach out to us at (https://discord.gg/Nyn994Er).
+Have questions or feedback? We'd love to hear from you! Reach out to us at [Discord:](https://discord.gg/Nyn994Er).
 
 ---
 

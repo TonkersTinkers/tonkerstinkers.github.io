@@ -30,6 +30,9 @@ Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze
 
 - **Eacv player starts their own city from scratch, stay alive and trade with other cities**
 
+- **Platforms**: FACTORIO SERVER MOD
+- **Genre**: Factory
+- **Status**: Released
 
 ## 🔗 Links
 

@@ -1,6 +1,6 @@
 # Tonkers Tinkers Projects
 
-Welcome to the official GitHub repository for projects developed by **Tonkers Tinkers**! Here, you'll find a collection of our innovative and exciting mobile and desktop applications. We specialize in creating games that combine fun, creativity, and a touch of history, providing engaging experiences for players of all ages.
+For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of our exciting mobile and desktop games. We specialize in creating games that combine fun, creativity, and a touch of history, providing engaging experiences for players of all ages.
 
 ## 🚀 Our Projects
 

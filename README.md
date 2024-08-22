@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for projects developed by **Tonkers Ti
 ## 🚀 Our Projects
 
 ### 1. Historic Helix
-Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze navigation game. Unearth ancient artifacts and unravel the secretive tales of Earth's forgotten past. Navigate through beautifully rendered historical environments and challenge yourself with dynamic mazes.
+**[BETA]** Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze navigation game. Unearth ancient artifacts and unravel the secretive tales of Earth's forgotten past. Navigate through beautifully rendered historical environments and challenge yourself with dynamic mazes.
 
 - **Platforms**: Android, PC, WebGL, Linux
 - **Genre**: Puzzle, Adventure

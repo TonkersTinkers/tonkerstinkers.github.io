@@ -36,7 +36,7 @@ For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of
 
 ## 🔗 Links
 
-- [Privacy Policy](https://github.com/tonkerstinkers/privacy-policy) - Learn how we handle your data and protect your privacy.
+- [Privacy Policy](https://tonkerstinkers.github.io/historichelix/privacypolicy) - Learn how we handle your data and protect your privacy.
 
 
 ## 📫 Contact Us

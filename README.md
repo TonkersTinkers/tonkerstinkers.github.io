@@ -28,7 +28,7 @@ Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze
 ### 4. Factorio MOD
 **[Server MOD]** MEGA Cities
 
-- **Eacv player starts their own city from scratch, stay alive and trade with other cities**
+- **Each player starts their own city from scratch, stay alive and trade with other cities**
 
 - **Platforms**: FACTORIO SERVER MOD
 - **Genre**: Factory

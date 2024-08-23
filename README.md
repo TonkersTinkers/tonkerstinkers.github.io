@@ -1,6 +1,6 @@
 # Tonkers Tinkers Projects
 
-For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of our exciting mobile and desktop games. We specialize in creating games that combine fun, creativity, and a touch of history, providing engaging experiences for players of all ages.
+For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of our exciting mobile and desktop games. We specialize in creating games that combine fun, creativity, and a touch of history, providing engaging experiences for players of all ages. Hyper-Focused on creating micro casual games that can be developed in the time span of 1-3 months each.
 
 ## 🚀 Our Projects
 

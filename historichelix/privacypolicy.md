@@ -1,34 +1,33 @@
 Privacy Policy
 
-1. Introduction
-Welcome to Tonkers Tinkers ("we", "our", "us"). We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy explains how we collect, use, and disclose information from and about you when you use our mobile games distributed on platforms like the Google Play Store.
+Welcome to Tonkers Tinkers. We are dedicated to protecting your privacy and ensuring your personal information is managed responsibly. This document outlines our practices concerning information collection, use, and disclosure when you use our games.
 
-2. Information We Collect
-We collect the following types of information:
-User Behavior and Analytics: We use Google Analytics to gather data on how you interact with our games, such as the frequency and duration of your gameplay, and other user behavior metrics. No personally identifiable information is stored.
-In-Game Purchases: Information about the transactions you make within our games.
+Information We Collect
 
-3. Data Collection from Children
-We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a user under the age of 13, we will delete such information from our records.
+User Behavior and Analytics: Analytics are performed by various ad companies to understand interactions with our games; no personal information is stored by Tonkers Tinkers.
+In-Game Purchases: Handled and recorded by third-party services.
+Data Collection from Children
+We do not collect any personal information from children under 13. Any such information collected by third-party services is their responsibility to manage and delete if collected inadvertently.
 
-4. How We Use Your Information
-The information we collect is used solely to serve ads through Google. We do not process or store this data ourselves. The ads may be personalized based on the data collected by Google.
+How We Use Your Information
+Tonkers Tinkers does not collect, process, or store any personal information. All data collection and ad serving are conducted by third-party ad networks and Unity Technologies for telemetry. You may opt out of this privacy policy by uninstalling the game and no longer using it. If any data were collected through the use of the game, you would have to contact the 3rd party ad networks that collected it.
 
-5. Sharing Your Information
-We do not share your information with any third parties other than Google for the purpose of serving ads.
+Sharing Your Information
+We do not share your information. All data handling for ads is the responsibility of third-party ad networks.
 
-6. User Rights
-Access and Correction: Users seeking to access or correct their data must contact Google, as we do not store or manage this data directly.
-Opt-Out: Users wishing to opt-out of data collection or ad targeting must contact Google.
+User Rights
 
-7. Security
-We do not collect any personally identifiable information about users, thereby minimizing the risk of data breaches or misuse of personal data.
+Access and Correction: Requests should be directed to the respective third-party service providers.
+Opt-Out: Users wishing to opt-out of data collection or ad targeting must contact the respective third-party service providers. To opt out of this privacy policy, you can uninstall the games and discontinue their use. Should you need to address any data previously collected through the game, you must contact the third-party ad networks responsible for the collection.
 
-8. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. When we do, we will post the new Privacy Policy on the same page where the previous policy was posted. Users will also be informed of changes when an update occurs on our apps.
+Security
+Tonkers Tinkers does not collect personally identifiable information, thus significantly reducing any risk of data breaches or misuse.
 
-9. Legal Compliance
-This Privacy Policy is governed by the laws of the State of California. By using our services, you agree to the terms outlined in this policy.
+Changes
+Changes to This Privacy Policy may be posted here at any time where Tonkers Tinkers sees fit.
 
-10. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us.
+Legal Compliance
+This policy adheres to the laws of the State of California.
+
+Contact Us
+For any questions or concerns, please contact the respective third-party service providers directly as Tonkers Tinkers does not manage user data.

@@ -6,6 +6,7 @@ Information We Collect
 
 User Behavior and Analytics: Analytics conducted by various ad companies assess your interactions; Tonkers Tinkers does not store personal information.
 In-Game Purchases: Managed and recorded by third-party services.
+
 Data Collection from Children
 We do not directly collect personal information from children under 13. Third-party services are responsible for ensuring compliance with child protection laws, such as COPPA, including the proper management and deletion of such data.
 

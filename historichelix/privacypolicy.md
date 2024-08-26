@@ -2,8 +2,7 @@ Privacy Policy
 
 We prioritize your privacy and responsibly manage your personal information. This Privacy Policy details our practices related to information collection, use, and disclosure when you engage with our games.
 
-Information We Collect
-
+Information We Collect  
 User Behavior and Analytics: Analytics conducted by various ad companies assess your interactions; Tonkers Tinkers does not store personal information.
 In-Game Purchases: Managed and recorded by third-party services.
 

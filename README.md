@@ -1,51 +1,22 @@
-# Tonkers Tinkers Projects
+# Tonkers Tinkers
 
-For projects developed by **Tonkers Tinkers**! Here, you'll find a collection of our exciting mobile and desktop games. We specialize in creating games that combine fun, creativity, and a touch of history, providing engaging experiences for players of all ages. Hyper-Focused on creating micro casual games that can be developed in the time span of 1-3 months each.
+Projects developed by **Tonkers Tinkers**, delivering full-scale video games. The latest project is an Action Adventure Maze Puzzle Video Game, just raw, non-stop action adventure, offering a complete 4K PC experience and compatibility scaling all the way down to mobile, supporting nearly any control system.
 
-## 🚀 Our Projects
+## Projects
 
-### 1. Historic Helix
-**[BETA]** Dive deep into the labyrinths of time with "Historic Helix," an enthralling maze navigation game. Unearth ancient artifacts and unravel the secretive tales of Earth's forgotten past. Navigate through themed fictionally historical environments and challenge yourself with dynamic mazes.
+### Historic Helix  
+**[BETA]**  
+Explore the labyrinths of history in **Historic Helix**, an Action Maze Adventure Puzzler. Built on decades of development expertise, this full 4K PC game is nearing completion. The release will first be on the Windows Store, followed by Steam.
 
-- **Platforms**: Android, PC, WebGL, Linux
-- **Genre**: Puzzle, Adventure
-- **Status**: #InDev (BETA)
+- **Platforms**: Windows Store, Steam  
+- **Genre**: Puzzle, Adventure, Action, Maze  
+- **Status**: In development (BETA)
 
-### 2. Project Nexus
-**[Coming Soon]** Futuristic gravity game that will push your reflexes to the limit. Stay tuned for more information as we get closer to launch!
+## Links
 
-- **Platforms**: Android, PC, WebGL
-- **Genre**: Space, Gravity
-- **Status**: Concept Phase
+- [Privacy Policy](https://tonkerstinkers.github.io/historichelix/privacypolicy)
 
-### 3. Quantum Quest
-**[Coming Soon]** Explore the mysteries of the quantum realm in this innovative puzzle game. Challenge your mind with quantum physics-inspired puzzles that will make you see the world in a whole new way.
+## Contact
 
-- **Platforms**: PC 
-- **Genre**: Puzzle, Educational
-- **Status**: Prototype
-
-### 4. Factorio MOD
-**[RELEASED]** MEGA Cities
-
-- **Each player starts their own city from scratch, stay alive and trade with other cities**
-
-- **Platforms**: FACTORIO SERVER MOD
-- **Genre**: Factory
-- **Status**: V4
-
-## 🔗 Links
-
-- [Privacy Policy](https://tonkerstinkers.github.io/historichelix/privacypolicy) - Learn how we handle your data and protect your privacy.
-
-
-## 📫 Contact Us
-
-Have questions or feedback? We'd love to hear from you! Reach out to us at 
-<br>
-[Discord: https://discord.gg/Nyn994Er](https://discord.gg/Nyn994Er).
-
----
-
-Thank you for visiting! We are excited to share our projects with you and look forward to bringing more amazing experiences to players around the world.
-
+Updates or Questions, feedback?  
+[https://x.com/TonkersTinkers](https://x.com/TonkersTinkers)
